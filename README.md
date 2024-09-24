@@ -1,8 +1,1 @@
-#include <stdio.h>
-int main ( )
-
-
-
-{
-         printf  ( " hola mundo " );
-}
+ALEXANDER RUIZ COTA #24021883
